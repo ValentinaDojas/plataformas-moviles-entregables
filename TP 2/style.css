@@ -61,7 +61,7 @@ strong {
 
 /* Primera línea del primer párrafo en color #efe */
 p:first-of-type::first-line {
-    color: #efe;
+    color: #a18594;
 }
 
 /* Cambio de color del título principal al pasar el mouse */
