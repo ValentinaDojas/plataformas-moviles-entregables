@@ -85,5 +85,5 @@ a:not([href]) {
 }
 
 .movies-list li:nth-child(even) {
-    background-color: #333;
+    background-color: #a18594;
 }
